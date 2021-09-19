@@ -29,6 +29,8 @@ body{
 #top-banner{
     margin-top: 4%;
     margin-left: 9%;
+    height: 500px;
+    margin-bottom: 10%;
 }
 
 .half-width{
@@ -76,5 +78,43 @@ body{
     border-radius: 5px;
     background: linear-gradient(to left , orange,orangered);
 }
+#about-banner{
+    height: 600px;
+    margin-bottom: 12%;
+    
+    
+}
 
-/*About  start*/
+/*About  end*/
+/*working start*/
+#working-banner{
+    background-color: rgb(244, 247, 247);
+    height: 800px;
+}
+.project{
+    margin-left: 7%;
+    float: left;
+    width: 16%;
+    /* border: 1px solid; */
+    
+    padding: 54px;
+    
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px 5px #aaaaaa;;
+    background-color: white;
+    padding-left: 86px;
+}
+
+.project img{
+    width: 100%;
+}
+
+#heading-work{
+    text-align: center;
+    padding-top: 85px;
+    font-size: 34px;
+    margin-bottom: 5%;
+
+}
+
+/*working end*/
