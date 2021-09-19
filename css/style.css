@@ -118,3 +118,51 @@ body{
 }
 
 /*working end*/
+#working-inquiry{
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+
+.img-div{
+    width: 50%;
+    height: 232px;
+    margin: 0 auto 0 auto;
+    background-image: url(../image/image4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+#image-head{
+    color: white;
+    /* margin-top: 17px; */
+    padding-top: 88px;
+    padding-left: 100px;
+    font-size: 50px;
+}
+.buttonn{
+    text-align: right;
+    margin-top: -11%;
+    margin-right: 8%;
+}
+#image-button{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    padding: 21px 50px;
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(to left , orange,orangered);
+}
+
+
+
+#stay-style{
+    text-align: center;
+    font-size: 15px;
+    color: dimgray;
+}
+#gmail-head{
+    text-align: center;
+}
